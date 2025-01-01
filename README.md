@@ -6,6 +6,8 @@ Homepage 🏠: A beautiful and user-friendly homepage with featured playlists an
 Navigation 🔄: A side navigation menu with links to different sections of the app, like Home, Search, Your Library.
 Responsive Layout 📱💻: Optimized for both desktop and mobile devices.
 Custom Styles 🎨: Handcrafted UI elements using pure HTML and CSS.
+
+
 Technologies Used
 HTML5 🧑‍💻: Structuring the app's layout and content.
 CSS3 🎨: Styling the app with custom designs, flexbox, and media queries for responsiveness.
