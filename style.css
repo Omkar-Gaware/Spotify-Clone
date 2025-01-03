@@ -257,7 +257,9 @@ a{
   justify-content: center;
   height: 2rem;
 }
-
+.class{
+    
+}
 .player{
     width: 50%;
 }
